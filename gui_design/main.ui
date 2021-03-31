@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BBN</class>
+ <widget class="QMainWindow" name="BBN">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>422</width>
+    <height>318</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>422</width>
+    <height>318</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>422</width>
+    <height>318</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>BBN</string>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::Rounded</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="group_box_units">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>110</y>
+      <width>172</width>
+      <height>142</height>
+     </rect>
+    </property>
+    <property name="mouseTracking">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>Units</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+    <property name="checkable">
+     <bool>false</bool>
+    </property>
+    <widget class="QCheckBox" name="chkBox_unit_1">
+     <property name="geometry">
+      <rect>
+       <x>11</x>
+       <y>21</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>1</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_2">
+     <property name="geometry">
+      <rect>
+       <x>11</x>
+       <y>44</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>2</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_3">
+     <property name="geometry">
+      <rect>
+       <x>11</x>
+       <y>67</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>3</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_4">
+     <property name="geometry">
+      <rect>
+       <x>11</x>
+       <y>90</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>4</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_5">
+     <property name="geometry">
+      <rect>
+       <x>11</x>
+       <y>113</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>5</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_6">
+     <property name="geometry">
+      <rect>
+       <x>46</x>
+       <y>21</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>6</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_7">
+     <property name="geometry">
+      <rect>
+       <x>46</x>
+       <y>44</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>7</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_8">
+     <property name="geometry">
+      <rect>
+       <x>46</x>
+       <y>67</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>8</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_9">
+     <property name="geometry">
+      <rect>
+       <x>46</x>
+       <y>90</y>
+       <width>29</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>9</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_10">
+     <property name="geometry">
+      <rect>
+       <x>46</x>
+       <y>113</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>10</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_19">
+     <property name="geometry">
+      <rect>
+       <x>128</x>
+       <y>90</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>19</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_20">
+     <property name="geometry">
+      <rect>
+       <x>128</x>
+       <y>113</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>20</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_11">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>21</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>11</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_12">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>44</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>12</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_13">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>67</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>13</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_18">
+     <property name="geometry">
+      <rect>
+       <x>128</x>
+       <y>67</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>18</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_17">
+     <property name="geometry">
+      <rect>
+       <x>128</x>
+       <y>44</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>17</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_14">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>90</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>14</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_15">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>113</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>15</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chkBox_unit_16">
+     <property name="geometry">
+      <rect>
+       <x>128</x>
+       <y>21</y>
+       <width>35</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>16</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="group_box_exercises">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>260</y>
+      <width>171</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Exercises</string>
+    </property>
+    <widget class="QRadioButton" name="radBut_words">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>23</y>
+       <width>54</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Words</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_exercises</string>
+     </attribute>
+    </widget>
+    <widget class="QRadioButton" name="radBut_sentences">
+     <property name="geometry">
+      <rect>
+       <x>88</x>
+       <y>23</y>
+       <width>73</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Sentences</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_exercises</string>
+     </attribute>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="group_box_lang_selector">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>171</width>
+      <height>96</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Language selector</string>
+    </property>
+    <widget class="QCheckBox" name="chckBox_spanish_left">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>23</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Spanish</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chckBox_spanish_right">
+     <property name="geometry">
+      <rect>
+       <x>89</x>
+       <y>23</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Spanish</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chckBox_russian_left">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>46</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Russian</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chckBox_russian_right">
+     <property name="geometry">
+      <rect>
+       <x>89</x>
+       <y>46</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Russian</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chckBox_german_left">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>69</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>German</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="chckBox_german_right">
+     <property name="geometry">
+      <rect>
+       <x>89</x>
+       <y>69</y>
+       <width>60</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>German</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="group_box_lang_selected_1">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>10</y>
+      <width>211</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Lang_selected_1</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+    <widget class="QLabel" name="Question">
+     <property name="geometry">
+      <rect>
+       <x>6</x>
+       <y>60</y>
+       <width>201</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="layoutDirection">
+      <enum>Qt::LeftToRight</enum>
+     </property>
+     <property name="text">
+      <string>TextLabel</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="group_box_lang_selected_2">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>140</y>
+      <width>211</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Lang_selected_2</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+    <widget class="QLineEdit" name="Answer">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>191</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <property name="frame">
+      <bool>true</bool>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </widget>
+   <widget class="Line" name="line">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>10</y>
+      <width>20</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="button_answer">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>280</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="text">
+     <string>Answer!</string>
+    </property>
+    <property name="autoDefault">
+     <bool>false</bool>
+    </property>
+    <property name="default">
+     <bool>false</bool>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup_exercises"/>
+ </buttongroups>
+</ui>

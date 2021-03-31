@@ -1,0 +1,33 @@
+{
+  "description": "Words spanish_1/russian_1",
+  "words_unit_1": [
+    {
+      "spanish_1": "Hola",
+      "russian_1": "Привет"
+    },
+    {
+      "spanish_1": "Quien",
+      "russian_1": "Кто"
+    },
+    {
+      "spanish_1": "Cual",
+      "russian_1": "Как"
+    },
+    {
+      "spanish_1": "Que",
+      "russian_1": "Что"
+    },
+    {
+      "spanish_1": "Yo",
+      "russian_1": "Я"
+    },
+    {
+      "spanish_1": "Gato",
+      "russian_1": "Кот"
+    },
+    {
+      "spanish_1": "Tomate",
+      "russian_1": "Томат"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Sentences spanish/russian",
+  "sentences_unit_1": [
+    {
+      "spanish_1": "Como estas?",
+      "spanish_2": "Que tal?",
+      "russian_1": "Как дела?"
+    },
+    {
+      "spanish_1": "Como te llamas?",
+      "russian_1": "Как тебя зовут?"
+    },
+    {
+      "spanish_1": "Me llamo",
+      "spanish_2": "Yo me llamo",
+      "russian_1": "Меня зовут"
+    } ,
+    {
+      "spanish_1": "Y tu?",
+      "russian_1": "А тебя?"
+    },
+    {
+      "spanish_1": "Un placer",
+      "spanish_2": "Encantado",
+      "russian_1": "Очень приятно"
+    }
+  ]
+}
