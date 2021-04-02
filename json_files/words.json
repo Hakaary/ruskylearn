@@ -28,6 +28,358 @@
     {
       "spanish_1": "Tomate",
       "russian_1": "Томат"
+    },
+    {
+      "spanish_1": "Mapa",
+      "russian_1": "Карта"
+    },
+    {
+      "spanish_1": "Restaurante",
+      "russian_1": "Ресторан"
+    },
+    {
+      "spanish_1": "Nota musical",
+      "spanish_2": "Nota",
+      "russian_1": "Нота"
+    },
+    {
+      "spanish_1": "Cohete",
+      "russian_1": "Ракета"
+    },
+    {
+      "spanish_1": "Tarta",
+      "russian_1": "Торт"
+    },
+    {
+      "spanish_1": "Metro",
+      "russian_1": "Метро"
+    },
+    {
+      "spanish_1": "O",
+      "russian_1": "Или"
+    },
+    {
+      "spanish_1": "Gracias",
+      "russian_1": "Спасибо"
+    },
+    {
+      "spanish_1": "Tambien",
+      "russian_1": "Тоже"
+    },
+    {
+      "spanish_1": "Perfectamente",
+      "russian_1": "Отлична"
+    },
+    {
+      "spanish_1": "Muy bien",
+      "spanish_2": "Muy bueno",
+      "russian_1": "Очень Хорошо"
+    },
+    {
+      "spanish_1": "Bien",
+      "spanish_2": "Bueno",
+      "russian_1": "Хорошо"
+    },
+    {
+      "spanish_1": "Normal",
+      "russian_1": "Нормально"
+    },
+    {
+      "spanish_1": "Mal",
+      "russian_1": "Плохо"
+    },
+    {
+      "spanish_1": "Muy mal",
+      "russian_1": "Очень плохо"
+    },
+    {
+      "spanish_1": "Muy",
+      "russian_1": "Очень"
+    },
+    {
+      "spanish_1": "Estadio",
+      "russian_1": "Стадион"
+    },
+    {
+      "spanish_1": "Examen",
+      "russian_1": "Екзамен"
+    },
+    {
+      "spanish_1": "Radio",
+      "russian_1": "Радио"
+    },
+    {
+      "spanish_1": "Futbol",
+      "russian_1": "Футбол"
+    },
+    {
+      "spanish_1": "Limon",
+      "russian_1": "Лимон"
+    },
+    {
+      "spanish_1": "Guitarra",
+      "russian_1": "Гитара"
+    },
+    {
+      "spanish_1": "Rosa",
+      "russian_1": "Роза"
+    },
+    {
+      "spanish_1": "Doctor",
+      "russian_1": "Доктор"
+    },
+    {
+      "spanish_1": "Sopa",
+      "russian_1": "Суп"
+    },
+    {
+      "spanish_1": "Parque",
+      "russian_1": "Парк"
+    },
+    {
+      "spanish_1": "Platano",
+      "russian_1": "Банан"
+    },
+    {
+      "spanish_1": "Si",
+      "russian_1": "Да"
+    },
+    {
+      "spanish_1": "No",
+      "russian_1": "Нет"
+    },
+    {
+      "spanish_1": "Te",
+      "russian_1": "Чай"
+    },
+    {
+      "spanish_1": "Que aproveche",
+      "spanish_2": "Buen provecho",
+      "russian_1": "Пожалуйста"
+    },
+    {
+      "spanish_1": "Aqui",
+      "russian_1": "Вот"
+    },
+    {
+      "spanish_1": "Alli",
+      "russian_1": "Там"
+    },
+    {
+      "spanish_1": "Agua",
+      "russian_1": "Вода"
+    },
+    {
+      "spanish_1": "Zumo",
+      "russian_1": "Сок"
+    },
+    {
+      "spanish_1": "Cerveza",
+      "russian_1": "Пиво"
+    },
+    {
+      "spanish_1": "Revista",
+      "spanish_2": "Periodico",
+      "spanish_3": "Diario",
+      "russian_1": "Журнал"
+    },
+    {
+      "spanish_1": "Actor",
+      "russian_1": "Актёр"
+    },
+    {
+      "spanish_1": "Pelicula",
+      "russian_1": "Филмь"
+    },
+    {
+      "spanish_1": "Yate",
+      "russian_1": "Яхта"
+    },
+    {
+      "spanish_1": "Nueva York",
+      "russian_1": "Нью-Йорк"
+    },
+    {
+      "spanish_1": "Tulipan",
+      "russian_1": "Тюльпан"
+    },
+    {
+      "spanish_1": "Inyeccion",
+      "spanish_2": "Vacuna",
+      "russian_1": "Инъекцпя"
+    },
+    {
+      "spanish_1": "Escuela",
+      "spanish_2": "Colegio",
+      "russian_1": "Школа"
+    },
+    {
+      "spanish_1": "Cheque",
+      "russian_1": "Чек"
+    },
+    {
+      "spanish_1": "Circo",
+      "russian_1": "Цирк"
+    },
+    {
+      "spanish_1": "Adios",
+      "russian_1": "Пока"
+    },
+    {
+      "spanish_1": "Paises",
+      "russian_1": "Страны"
+    },
+    {
+      "spanish_1": "Ciudades",
+      "russian_1": "Города"
+    },
+    {
+      "spanish_1": "Bebidas",
+      "russian_1": "Напитки"
+    },
+    {
+      "spanish_1": "Fruta",
+      "russian_1": "фруткы"
+    },
+    {
+      "spanish_1": "Meses",
+      "russian_1": "Месяцы"
+    },
+    {
+      "spanish_1": "Deportes",
+      "russian_1": "Спорт"
+    },
+    {
+      "spanish_1": "Palabra",
+      "russian_1": "Слов"
+    },
+    {
+      "spanish_1": "Ejemplo",
+      "russian_1": "Модель"
+    },
+    {
+      "spanish_1": "Rusia",
+      "russian_1": "Россия"
+    },
+    {
+      "spanish_1": "Brasil",
+      "russian_1": "Бразилия"
+    },
+    {
+      "spanish_1": "Portugal",
+      "russian_1": "Португалия"
+    },
+    {
+      "spanish_1": "Francia",
+      "russian_1": "Франция"
+    },
+    {
+      "spanish_1": "Chile",
+      "russian_1": "Чили"
+    },
+    {
+      "spanish_1": "Chicago",
+      "russian_1": "Чикаго"
+    },
+    {
+      "spanish_1": "Moscu",
+      "russian_1": "Москва"
+    },
+    {
+      "spanish_1": "Londres",
+      "russian_1": "Лондон"
+    },
+    {
+      "spanish_1": "Paris",
+      "russian_1": "Париж"
+    },
+    {
+      "spanish_1": "Roma",
+      "russian_1": "Рим"
+    },
+    {
+      "spanish_1": "Vino",
+      "russian_1": "Вино"
+    },
+    {
+      "spanish_1": "Licor",
+      "russian_1": "Ликёр"
+    },
+    {
+      "spanish_1": "Cafe",
+      "russian_1": "Кофе"
+    },
+    {
+      "spanish_1": "Coñac",
+      "russian_1": "Коньяк"
+    },
+    {
+      "spanish_1": "Сhampan",
+      "spanish_2": "Champagne",
+      "russian_1": "Шампанское"
+    },
+    {
+      "spanish_1": "Mandarina",
+      "russian_1": "Мандарин"
+    },
+    {
+      "spanish_1": "Mango",
+      "russian_1": "Манго"
+    },
+    {
+      "spanish_1": "Naranja",
+      "russian_1": "Апельсин"
+    },
+    {
+      "spanish_1": "Kiwi",
+      "russian_1": "Киви"
+    },
+    {
+      "spanish_1": "Piña",
+      "russian_1": "Ананас"
+    },
+    {
+      "spanish_1": "Mayo",
+      "russian_1": "Май"
+    },
+    {
+      "spanish_1": "Junio",
+      "russian_1": "Июнь"
+    },
+    {
+      "spanish_1": "Octubre",
+      "russian_1": "Октябрь"
+    },
+    {
+      "spanish_1": "Enero",
+      "russian_1": "Ямварь"
+    },
+    {
+      "spanish_1": "Marzo",
+      "russian_1": "Март"
+    },
+    {
+      "spanish_1": "Hokey",
+      "spanish_2": "Hockey",
+      "russian_1": "Хоккей"
+    },
+    {
+      "spanish_1": "Voleybol",
+      "spanish_2": "Volley ball",
+      "spanish_3": "Volleyball",
+      "russian_1": "Болейбол"
+    },
+    {
+      "spanish_1": "Tenis",
+      "russian_1": "Теннис"
+    },
+    {
+      "spanish_1": "Baloncesto",
+      "russian_1": "Баскетбол"
+    },
+    {
+      "spanish_1": "Rugby",
+      "russian_1": "Регби"
     }
   ]
 }
