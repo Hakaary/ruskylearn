@@ -23,6 +23,18 @@
       "spanish_1": "Un placer",
       "spanish_2": "Encantado",
       "russian_1": "Очень приятно"
+    },
+    {
+      "spanish_1": "Тоже хорошо",
+      "russian_1": "Очень приятно"
+    },
+    {
+      "spanish_1": "Hasta pronto",
+      "russian_1": "До встречи"
+    },
+    {
+      "spanish_1": "Estoy en Rusia",
+      "russian_1": "Я в России"
     }
   ]
 }
